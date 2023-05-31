@@ -4,7 +4,7 @@ Hi 👋 my name is Roberto!
 Developer and Designer
 ----------------------
 
-🎓 Graduated in Computer Science Engineering from Universidad San Francisco de Quito in january 2023. 
+🎓 Graduated in Computer Science Engineering from Universidad San Francisco de Quito in january 2023.\
 🎨 Passionate about design and its integration with technology.
 
 * 🌍  I'm based in Quito, Ecuador
