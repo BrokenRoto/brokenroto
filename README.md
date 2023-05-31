@@ -1,10 +1,11 @@
-Hi 👋 My name is Roberto Cárdenas
+Hi 👋 my name is Roberto!
 =================================
 
 Developer and Designer
 ----------------------
 
-🎓 Graduated in Computer Science Engineering from Universidad San Francisco de Quito in january 2023. 🎨 Passionate about design and its integration with technology.
+🎓 Graduated in Computer Science Engineering from Universidad San Francisco de Quito in january 2023. 
+🎨 Passionate about design and its integration with technology.
 
 * 🌍  I'm based in Quito, Ecuador
 * ✉️  You can contact me at [jroberto.cardenasm@gmail.com](mailto:jroberto.cardenasm@gmail.com)
@@ -33,9 +34,3 @@ Developer and Designer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/brokenroto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jroberto-cardenasm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/brokenroto"><img src="https://github-readme-stats.vercel.app/api?username=brokenroto&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="brokenroto's GitHub stats" /></a>
